@@ -8,6 +8,7 @@ $(function() {
 
     $(window).resize(function() {
         $('#browser_size').html(window.innerWidth + ' x ' + window.innerHeight);
+        $('#screen_resolution').html(screen.width + ' x ' + screen.height);
     });
 
 });

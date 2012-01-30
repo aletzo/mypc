@@ -67,8 +67,8 @@ td { vertical-align: top; }
    ========================================================================== */
 
 body {
-    background: #0C1021;
-    color: rgba(0, 136, 255, 0.9);
+    background: #060811;
+    color: #FF7700;
 }
 
 
@@ -78,7 +78,7 @@ body {
 }
 
 #container h1 {
-    color: #FF6400;
+    color: #96EBFF;
 }
 
 #container h1 small {
@@ -95,7 +95,7 @@ body {
 }
 
 #container .box span {
-    color: #D8FA3C;
+    color: #fff;
 }
 
 
